@@ -1,0 +1,38 @@
+#azul {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+
+#vermelha {
+    background-color: red;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+    position: absolute;
+}
+
+#preta {
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    position: absolute;
+}
+
+#verde {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    position: absolute;
+}
+
+#amarela {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    position: absolute;
+}

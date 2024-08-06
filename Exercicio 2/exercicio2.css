@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#quadrado1 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+}
+
+#quadrado2 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+#quadrado3 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    bottom: 0;
+}
+
+#quadrado4 {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

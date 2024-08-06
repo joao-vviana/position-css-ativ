@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: black;
+}
+
+#quadrado1 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px; 
+}
+
+#quadrado2 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    top: 110px;
+}
+
+#quadrado3 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    top: 220px;
+}
+
+#quadrado4 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    top: 0;
+    left: 110px;
+}
+
+#quadrado5 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    top: 110px;
+    left: 110px;
+}
+
+#quadrado6 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    top: 0px;
+    left: 220px;
+}
+
+#quadrado7 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    bottom: 0;
+    right: 0;
+}
+
+#quadrado8 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    bottom: 110px;
+    right: 0;
+}
+
+#quadrado9 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    bottom: 220px;
+    right: 0;
+}
+
+#quadrado10 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    bottom: 0;
+    right: 110px;
+}
+
+#quadrado11 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    bottom: 110px;
+    right: 110px;
+}
+
+#quadrado12 {
+    position: fixed;
+    margin: 3px;
+    width: 100px;
+    height: 100px;
+    bottom: 0px;
+    right: 220px;
+}
+
+
